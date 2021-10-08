@@ -1,16 +1,12 @@
-### Hi there 👋
+# Very Boring Projects
+[![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
+[![Portfolio Badge](https://img.shields.io/badge/-kunalraghav.github.io-orange?style=flat-square&logo=html5&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
 
-<!--
-**VeryBoringProjects/VeryBoringProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Boring, I'm also a C# 'Programmer'.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Boring Stuff
+- 🌱 I’m currently bored.
+- 💬 Ask me about: Films, Music, Coding.
+- 😄 Pronouns: He/Him.
+- ⚡ Languages: C#.
